@@ -1,6 +1,9 @@
-### Hi there 👋
+<img width="80%" align="center" alt="Github" src="/images/git_readme_demo (3).png" />
 
 <!--
+### Hi there 👋
+
+
 **hakunamoni/hakunamoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
