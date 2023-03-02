@@ -1,4 +1,4 @@
-<img width="80%" align="right" alt="Github" src="/images/git_readme_demo.png" />
+<img width="60%" align="right" alt="Github" src="/images/git_readme_demo.png" />
 
 <!--
 ### Hi there 👋
