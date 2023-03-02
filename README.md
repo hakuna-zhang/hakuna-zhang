@@ -1,13 +1,23 @@
 <img width="70%" align="right" alt="Github" src="/images/git_readme_demo.png" />
 
-Hi, I'm Daniel Scott, NetSuite Developer
+**Hi, I'm Daniel Scott**
 
-- :desktop_computer:
-- :envelope:
-- :round_pushpin:
-- :microscope:
-- :trophy:
-- :office:
+- :desktop_computer: [hakunamoni.github.io](hakunamoni.github.io)
+- :e-mail: [hakunamoni@gmail.com](mailto:hakunamoni@gmail.com)
+- :telephone_receiver: +(40) 373784272
+- :house: Sibiu, Romania
+- :mortar_board: [Transilvania University](https://www.unitbv.ro/)
+- :trophy: NetSuite developer
+- :notebook_with_decorative_cover: SuiteCommerce Advanced
+- ⚡ :lotus_position_man: :swimmer: :clinking_glasses: :skier: :beach_umbrella: :bowling:
+
+<!-- 
+:book:
+:blue_book:
+:envelope:
+:computer:
+ -->
+
 <!--
 ### Hi there 👋
 
