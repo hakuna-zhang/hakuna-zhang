@@ -1,12 +1,18 @@
 <img width="70%" align="right" alt="Github" src="/images/git_readme_demo.png" />
 
+- :desktop_computer:
+- :envelope:
+- :round_pushpin:
+- :microscope:
+- :trophy:
+- :office:
 <!--
 ### Hi there 👋
 
 
 **hakunamoni/hakunamoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Daniel Scott, NetSuite Developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
