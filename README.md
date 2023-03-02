@@ -3,7 +3,7 @@
 ***Hi, I'm Daniel Scott***
 
 - :e-mail: [hakunamoni@gmail.com](mailto:hakunamoni@gmail.com)
-- :desktop_computer: [hakunamoni.github.io](hakunamoni.github.io)
+- :desktop_computer: [hakunamoni.github.io](https://hakunamoni.github.io)
 - :mortar_board: [Transilvania University](https://www.unitbv.ro/)
 - :telephone_receiver: +(40) 373784272
 - :house: Sibiu, Romania
