@@ -2,14 +2,14 @@
 
 **Hi, I'm Daniel Scott**
 
-- :desktop_computer: [hakunamoni.github.io](hakunamoni.github.io)
 - :e-mail: [hakunamoni@gmail.com](mailto:hakunamoni@gmail.com)
+- :desktop_computer: [hakunamoni.github.io](hakunamoni.github.io)
+- :mortar_board: [Transilvania University](https://www.unitbv.ro/)
 - :telephone_receiver: +(40) 373784272
 - :house: Sibiu, Romania
-- :mortar_board: [Transilvania University](https://www.unitbv.ro/)
-- :trophy: NetSuite developer
+- :trophy: NetSuite Development
 - :notebook_with_decorative_cover: SuiteCommerce Advanced
-- ⚡ :lotus_position_man: :swimmer: :clinking_glasses: :skier: :beach_umbrella: :bowling:
+- :lotus_position_man: :ice_skate: :swimmer: :clinking_glasses: :skier: :soccer: :beach_umbrella: :coconut: :bowling: 
 
 <!-- 
 :book:
