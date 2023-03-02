@@ -1,6 +1,6 @@
 <img width="70%" align="right" alt="Github" src="/images/git_readme_demo.png" />
 
-***Hi, I'm Daniel Scott***
+**Hi, I'm Daniel Scott**
 
 - :e-mail: [hakunamoni@gmail.com](mailto:hakunamoni@gmail.com)
 - :desktop_computer: [hakunamoni.github.io](https://hakunamoni.github.io)
@@ -9,7 +9,7 @@
 - :house: Sibiu, Romania
 - :trophy: NetSuite Development
 - :notebook_with_decorative_cover: SuiteCommerce Advanced
-- :lotus_position_man: :ice_skate: :swimmer: :coconut: :beach_umbrella: :camping: :clinking_glasses: :skier: :bowling: 
+- :lotus_position_man: :ice_skate: :swimmer: :coconut: :camping: :clinking_glasses: :beach_umbrella: :skier: :bowling: 
 
 <!-- 
 :book:
