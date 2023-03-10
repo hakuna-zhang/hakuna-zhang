@@ -4,7 +4,7 @@
 
 - :envelope: [hakunamoni@gmail.com](mailto:hakunamoni@gmail.com)
 - :desktop_computer: [hakunamoni.github.io](https://hakunamoni.github.io)
-- :mortar_board: [Transilvania University](https://www.unitbv.ro/)
+- :eye: [hakunamoni.read.cv/](https://hakunamoni.read.cv/)
 - :telephone_receiver: +(40) 373784272
 - :house: Sibiu, Romania
 - :trophy: NetSuite Development
@@ -12,6 +12,7 @@
 - :lotus_position_man: :ice_skate: :swimmer: :coconut: :camping: :clinking_glasses: :beach_umbrella: :skier: :bowling: 
 
 <!-- 
+- :mortar_board: [Transilvania University](https://www.unitbv.ro/)
 :book:
 :blue_book:
 :envelope:
