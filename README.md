@@ -4,7 +4,7 @@
 
 - :envelope: [hakunamoni@gmail.com](mailto:hakunamoni@gmail.com)
 - :desktop_computer: [hakunamoni.github.io](https://hakunamoni.github.io)
-- :eye: [hakunamoni.read.cv/](https://hakunamoni.read.cv/)
+- :eye: [hakunamoni.read.cv](https://hakunamoni.read.cv)
 - :telephone_receiver: +(40) 373784272
 - :house: Sibiu, Romania
 - :trophy: NetSuite Development
