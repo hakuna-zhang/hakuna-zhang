@@ -1,12 +1,12 @@
 <img width="70%" align="right" alt="Github" src="/images/git_readme_demo.png" />
 
-**Hi, I'm Daniel Scott**
+**Hi, I'm Zhang**
 
-- :envelope: [hakunamoni@gmail.com](mailto:hakunamoni@gmail.com)
-- :desktop_computer: [hakunamoni.github.io](https://hakunamoni.github.io)
-- :eye: [hakunamoni.read.cv](https://hakunamoni.read.cv)
-- :telephone_receiver: +(40) 373784272
-- :house: Sibiu, Romania
+- :envelope: [hakunamoni@gmail.com](mailto:zhangyuehua1201@gmail.com)
+- :desktop_computer: [hakunamoni.github.io](https://hakuna-zhang.github.io)
+- :eye: [hakunamoni.read.cv](https://read.cv/zhangyuehua)
+- :telephone_receiver: +(86) 13840282258
+- :house: Shenyang, China
 - :trophy: NetSuite Development
 - :open_book: SuiteCommerce Advanced
 - :lotus_position_man: :ice_skate: :swimmer: :coconut: :camping: :clinking_glasses: :beach_umbrella: :skier: :bowling: 
